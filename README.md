@@ -24,7 +24,6 @@ El proyecto está organizado de la siguiente manera:
 
 - `/src/main/java`: Contiene el código fuente de la aplicación, incluyendo modelos, vistas, controladores y la clase principal de la aplicación.
 - `/src/main/resources`: Alberga archivos de configuración y recursos estáticos necesarios para la aplicación.
-- `/src/test`: Contiene los tests unitarios y de integración para asegurar la calidad del código.
 
 ## Cómo Empezar
 
